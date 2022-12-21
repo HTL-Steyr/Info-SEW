@@ -1,5 +1,5 @@
 
-## C & C++
+# C & C++
 C sowie C++ werden als einführende Programmiersprachen gelernt. Die gewonnenen Programmerkenntnisse werden in den weiteren Programmiersprachen vertieft.
 
 ```c++ 
