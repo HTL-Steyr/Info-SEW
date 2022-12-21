@@ -1,4 +1,4 @@
-# JAVA & JAVAF
+# Unterschiede C und Java
 
 - Syntax: Java - objektorientiert; C - procedurell orientiert
 - Typisierung: Java - stark; C - schwach
