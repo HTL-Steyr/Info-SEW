@@ -1,4 +1,4 @@
-## JAVA & JAVAF
+# JAVA & JAVAF
 
 - Syntax: Java - objektorientiert; C - procedurell orientiert
 - Typisierung: Java - stark; C - schwach
