@@ -1,4 +1,6 @@
 # Bereich Algorithmen und Datenstrukturen
 
-- Einfache Datenstrukturen einsetzen
-- Einfache Datenstrukturen sortieren und darin ein Element suchen
+<ul>
+  <li>Einfache Datenstrukturen einsetzen</li>
+  <li>Einfache Datenstrukturen sortieren und darin ein Element suchen</li>
+</ul>
