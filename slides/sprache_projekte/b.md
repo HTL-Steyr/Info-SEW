@@ -8,3 +8,6 @@ public class Main {
         System.out.println("Hello, world!");
     }
 }
+
+```
+In diesem Beispiel wird "Hello, World!" ausgegeben.
