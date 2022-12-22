@@ -14,4 +14,3 @@ int main() {
 ```
 In diesem Beispiel wird "Hello, World!" ausgegeben.
 
----
