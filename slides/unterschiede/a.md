@@ -1,6 +1,6 @@
 # Unterschiede C und Java
 
-- Syntax: Java - objektorientiert; C - procedurell orientiert
+- Syntax: Java - objektorientiert; C - prozedura orientiert
 - Typisierung: Java - stark; C - schwach
 - OOP: Java - ja; C - nein
 - Plattformunabhängigkeit: Java - ja; C - nein
